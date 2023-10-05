@@ -16,9 +16,9 @@
 ![](https://github-profile-trophy.vercel.app/?username=shashwat0801&theme=radical&no-frame=false&no-bg=true&margin-w=4)
  -->
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=shashwat0801&limit=5&theme=onedark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=ShashwatAgarwal-08&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=shashwat0801&icon=3&color=5)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ShashwatAgarwal-08&icon=3&color=5)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
