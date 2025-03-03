@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Student Report Management System<br>👯 I’m looking to collaborate on open source<br>🤝 I’m looking for help with Web Development<br>🌱 I’m currently learning Java, Web Development<br>
+🔭 I’m currently working on Maou VPN, an open source vpn based on wiregaurd framework.<br>👯 I’m looking to collaborate on open source<br>🤝 I’m working in cybersecurity and networking<br>🌱 I’m planning to extend my skills to cloud computing<br>
 
 
 ## 🌐 Socials:
